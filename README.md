@@ -1,16 +1,29 @@
-## Hi there 👋
+# denizomer1 💧
 
-<!--
-**denizomer1/denizomer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux • Hardware • Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I do
+
+- Build & test real systems  
+- Work on optimization  
+- Explore open-source technologies  
+
+---
+
+## 🧪 Current focus
+
+- OxiOS  
+- System performance  
+- Linux kernel & drivers  
+
+---
+
+## 🌐 Techoxium
+
+https://techoxium.com
+
+---
+
+> No old systems. Only unoptimized ones.
