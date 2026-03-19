@@ -1,8 +1,6 @@
 <div align="center">
 
-# Techoxium 💧
-
-### The element of technology
+# Hi There Welcome to my Github Page 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=1000&color=4DA3FF&center=true&vCenter=true&width=500&lines=Linux+%E2%80%A2+Hardware+%E2%80%A2+Systems;Real+Testing+%E2%80%A2+Real+Setups;Optimization+is+everything" />
 
