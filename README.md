@@ -12,11 +12,7 @@
 
 ### 🧠 About
 
-Building and testing real systems.  
 Focused on performance, optimization and open-source.
-
-> No old systems.  
-> Only unoptimized ones.
 
 </div>
 
@@ -28,7 +24,6 @@ Focused on performance, optimization and open-source.
 
 ⚙️ System tools & automation  
 🧪 Experimental OS ideas (OxiOS)  
-💻 Real hardware testing  
 
 </div>
 
@@ -54,9 +49,5 @@ Focused on performance, optimization and open-source.
 </div>
 
 ---
-
-<div align="center">
-
-💧 Building systems. Not just using them.
 
 </div>
